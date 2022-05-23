@@ -1,4 +1,4 @@
-# [RAYS] Client
+# ![[RAYS] Client](./splash.png)
 The official repo of the [RAYS] clan krunker client.  
 
 ## Features:
