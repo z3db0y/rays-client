@@ -3,5 +3,10 @@
         "style": {
             "animation": "rainbow .5s linear infinite"
         }
+    },
+    "BWAF": {
+        "style": {
+            "color": "turqoise"
+        }
     }
 }
