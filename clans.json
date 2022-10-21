@@ -13,6 +13,6 @@
         "style": {
             "display": "none"
         },
-        "addonHTML": "<img style='height: 60px' src='https://raw.githubusercontent.com/z3db0y/rays-client/main/voided_clan.png'>"
+        "addonHTML": "<img style='height: 60px !important' src='https://raw.githubusercontent.com/z3db0y/rays-client/main/voided_clan.png'>"
     }
 }
