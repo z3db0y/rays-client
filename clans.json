@@ -8,5 +8,11 @@
         "style": {
             "color": "turquoise"
         }
+    }.
+    "Ӿ": {
+        "style": {
+            "display": "none"
+        },
+        "addonHTML": "<img src='https://raw.githubusercontent.com/z3db0y/rays-client/main/voided_clan.png'>"
     }
 }
