@@ -11,8 +11,7 @@
     },
     "Ӿ": {
         "style": {
-            "display": "none"
-        },
-        "addonHTML": "<img style='height: 40px !important' src='https://raw.githubusercontent.com/z3db0y/rays-client/main/voided_clan.png'>"
+            "color": "red"
+        }
     }
 }
