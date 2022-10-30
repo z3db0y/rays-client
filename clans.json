@@ -18,5 +18,10 @@
         "style": {
             "color": "deeppink"
         }
+    },
+    "Kep": {
+        "style": {
+            "color": "blue"
+        }
     }
 }
