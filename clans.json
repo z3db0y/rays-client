@@ -13,5 +13,10 @@
         "style": {
             "color": "red"
         }
+    },
+    "iko": {
+        "style": {
+            "color": "deeppink"
+        }
     }
 }
