@@ -9,4 +9,4 @@ The official repo of the [RAYS] clan krunker client.
 
 ## Please read [the license](./LICENSE.md) before use.
 
-## [⬇️Download](https://github.com/z3db0y/rays-client/releases/latest)
+## [⬇️Download](https://api.z3db0y.com/rays/download)
