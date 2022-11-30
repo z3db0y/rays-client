@@ -23,5 +23,11 @@
         "style": {
             "color": "blue"
         }
+    },
+    "РАША": {
+        "style": {
+            "display": "none"
+        },
+        "addonHTML": "<img style='height: 1em; margin-left: 0.5em; vertical-align: middle' src='https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/640px-Flag_of_Russia.svg.png'>"
     }
 }
