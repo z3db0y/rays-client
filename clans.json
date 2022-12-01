@@ -28,6 +28,12 @@
         "style": {
             "display": "none"
         },
-        "addonHTML": "<img style=\"height: 1em; margin-left: 0.5em; vertical-align: middle;\" src=\"https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/640px-Flag_of_Russia.svg.png\">"
+        "addonHTML": "<img style=\"height: 1em; margin-left: 0.5em; vertical-align: middle;\" src=\"https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/125px-Flag_of_Russia.svg.png\">"
+    },
+    "x6": {
+        "style": {
+            "display": "none"
+        },
+        "addonHTML": "<img style=\"height: 1em; margin-left: 0.5em; vertical-align: middle;\" src=\"https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/125px-Flag_of_Germany.svg.png\">"
     }
 }
