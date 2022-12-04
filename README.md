@@ -5,8 +5,9 @@ The official repo of the [RAYS] clan krunker client.
   - Uncap FPS
   - Discord Activity
   - Alt Manager
-#### __PRESS F1 TO OPEN SETTINGS__
 
-## Please read [the license](./LICENSE.md) before use.
+...and many more!
+
+## [<img src="https://cdn.z3db0y.com/discord.svg" valign="middle" style="height: 1em"> Support Server](https://discord.gg/C4k9uVnPwP)
 
 ## [⬇️Download](https://api.z3db0y.com/rays/download)
