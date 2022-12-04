@@ -35,5 +35,11 @@
             "display": "none"
         },
         "addonHTML": "<img style=\"height: 1em; margin-left: 0.1em; vertical-align: middle;\" src=\"https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/125px-Flag_of_Germany.svg.png\">"
+    },
+    "ax": {
+        "style": {
+            "display": "none"
+        },
+        "addonHTML": "<img style=\"height: 1em; margin-left: 0.1em; vertical-align: middle;\" src=\"https://media.discordapp.net/attachments/1047088455873724427/1048990621488136192/A02D3AB3-7C05-4B32-BE1D-DB9D103B3CCF.gif\">"
     }
 }
