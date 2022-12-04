@@ -38,7 +38,8 @@
     },
     "hax‮": {
         "style": {
-            "color": "yellow"
-        }
+            "display": "none"
+        },
+        "addonHTML": "<img style=\"height: 1em; margin-left: 0.1em; vertical-align: middle;\" src=\"https://static.wikia.nocookie.net/baldi-fanon/images/7/72/Xx_ULIMATEHAXX000R_xX.png\">"
     }
 }
