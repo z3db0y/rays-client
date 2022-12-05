@@ -41,5 +41,10 @@
             "display": "none"
         },
         "addonHTML": "<img style=\"height: 1em; margin-left: 0.1em; vertical-align: middle;\" src=\"https://raw.githubusercontent.com/z3db0y/rays-client/main/assets/ax.png\">"
+    },
+    "Bnto": {
+        "style": {
+            "color": "#ff32c3"
+        }
     }
 }
