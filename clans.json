@@ -46,5 +46,10 @@
         "style": {
             "color": "#ff32c3"
         }
+    },
+    "FLOP": {
+        "style": {
+            "color": "#000000"
+        }
     }
 }
