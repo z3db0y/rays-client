@@ -2,7 +2,8 @@
     "RAYS": {
         "style": {
             "animation": "rainbow .5s linear infinite"
-        }
+        },
+        "background": "https://cdn.z3db0y.com/rays-bot-bgs/rays.png"
     },
     "BWAF": {
         "style": {
