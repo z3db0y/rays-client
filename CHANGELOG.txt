@@ -2,5 +2,5 @@
 * General
 - Added changelog
 
-== UPDATE 1.9.9 ==
+== UPDATE 2.0.0-a ==
 - Fake update for testing
