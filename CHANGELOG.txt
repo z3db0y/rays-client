@@ -1,3 +1,86 @@
 == UPDATE 2.0.0-preview ==
 * General
 - Added changelog
+
+== UPDATE 1.1.5 ==
+* Bug fixes
+- Attempted to optimise performance
+
+== UPDATE 1.1.4 ==
+* General
+- Added nuke timer feature
+- Added OBS Game Capture support
+- Added loading screen background message
+
+== UPDATE 1.1.3 ==
+* General
+- Re-enabled badges
+
+== UPDATE 1.1.2-temp ==
+* General
+- Temporarily disabled badges
+
+== UPDATE 1.1.2 ==
+* General
+- Added CSS root variable modification
+- Added AdBlock CSS modification
+* Game fixes
+- Equip menu not closing after selecting knife
+- Server browser search resets randomly
+* Bug fixes
+- betterF4 minimum time was on 120 minutes by default smh
+- arrow keys with keystrokes looking fucked up
+- no option to resize keystrokes although it was implemented in code
+
+== UPDATE 1.1.1 ==
+* Bug fixes
+- Fix selects (important)
+
+== UPDATE 1.1.0 ==
+* General
+- Minor bug fixes
+- Added keystrokes feature
+- Added custom CSS feature
+- Added Better Matchmaker feature
+- Added badges
+- Badges and clan colors now visible on social
+
+== UPDATE 1.0.9 ==
+* General
+- Added graphics settings
+* Bug fixes
+- Fixed select setting values
+
+== UPDATE 1.0.8 ==
+* Bug fixes
+- Final patch to observers
+- Fixed placebo FPS resetting on client restart
+
+== UPDATE 1.0.7 ==
+* General
+- MacOS support
+- Optimised client
+- Added placebo FPS
+
+== UPDATE 1.0.6 ==
+* General
+- Sky image optimised
+* Bug fixes
+- Fixed bug with fast class selector
+
+== UPDATE 1.0.5 ==
+* General
+- Sky image now allows videos and live updates
+- Added fast class selector
+- Banknot is sexy
+
+== UPDATE 1.0.4 ==
+* General
+- Added Sky Image
+
+== UPDATE 1.0.3 ==
+* General
+- Client is now compiled with bytenode (yay!)
+- Developer settings are now shown (for fun)
+- Added first KPD addon - player ping
+- Reworked settings to be easier to find
