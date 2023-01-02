@@ -2,6 +2,9 @@
 * General
 - Added changelog
 
+== UPDATE 2.0.0-a ==
+- Fake version for testing
+
 == UPDATE 1.1.5 ==
 * Bug fixes
 - Attempted to optimise performance
