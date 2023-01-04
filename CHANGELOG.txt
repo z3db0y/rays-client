@@ -1,6 +1,6 @@
 == UPDATE 2.0.0-preview ==
 * General
-- Added changelog
+- Friend-only test release
 
 == UPDATE 2.0.0-a ==
 - Fake version for testing
