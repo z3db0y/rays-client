@@ -52,5 +52,10 @@
         "style": {
             "color": "#000000"
         }
+    },
+    "ImBG": {
+        "style": {
+            "color": "red"
+        }
     }
 }
