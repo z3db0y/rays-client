@@ -57,5 +57,10 @@
         "style": {
             "color": "red"
         }
+    },
+    "HD": {
+        "style": {
+            "color": "orange"
+        }
     }
 }
