@@ -18,6 +18,7 @@
 - Added clear cache button in settings
 * Bug fixes
 - Added support for scroll wheel in keystrokes addon
+- Game window now saves state (position, size, fullscreen) and restores it on startup
 
 == UPDATE 1.1.5 ==
 * Bug fixes
