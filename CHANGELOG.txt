@@ -1,9 +1,23 @@
-== UPDATE 2.0.0-preview ==
+== UPDATE 2.0.0 ==
 * General
-- Friend-only test release
-
-== UPDATE 2.0.0-a ==
-- Fake version for testing
+- Removed fast classes addon as it can be added with custom CSS
+- Revamped badges and clan tags to be less of a performance drain (still eat FPS)
+- Revamped sky color to "environment mod"
+- Added fog modification (environment mod)
+- Added light tweaks (environment mod)
+- Added addons tab
+- Revamped placebo FPS
+- Revamped twitch integration: you can now toggle custom commands
+- Added more variables to twitch integration
+- Added [Krunker Editor Plus](https://github.com/j4k0xb/Krunker-Editor-Plus) to krunker editor
+- Revamped discord rich presence: you can now add custom buttons
+- Revamped alt manager
+- Added watermark under game timer & "Need help?" tooltip next to batte pass
+- Revamped changelog
+- New splash screen
+- Added clear cache button in settings
+* Bug fixes
+- Added support for scroll wheel in keystrokes addon
 
 == UPDATE 1.1.5 ==
 * Bug fixes
