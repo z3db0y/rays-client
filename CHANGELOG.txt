@@ -14,7 +14,7 @@
 - Revamped alt manager
 - Added watermark under game timer & "Need help?" tooltip next to batte pass
 - Revamped changelog
-- [New splash screen](https://media.discordapp.net/attachments/755053641215377410/1062048014593699900/vlcframeextract.png?width=1609&height=905)
+- [New splash screen](https://media.discordapp.net/attachments/755053641215377410/1062048014593699900/vlcframeextract.png?width=1609&height=905) (it's also animated)
 - Added clear cache button in settings
 * Bug fixes
 - Added support for scroll wheel in keystrokes addon
