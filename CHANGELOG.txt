@@ -14,11 +14,12 @@
 - Revamped alt manager
 - Added watermark under game timer & "Need help?" tooltip next to batte pass
 - Revamped changelog
-- New splash screen
+- [New splash screen](https://media.discordapp.net/attachments/755053641215377410/1062048014593699900/vlcframeextract.png?width=1609&height=905)
 - Added clear cache button in settings
 * Bug fixes
 - Added support for scroll wheel in keystrokes addon
 - Game window now saves state (position, size, fullscreen) and restores it on startup
+- When images fail to load they will [now be hidden](https://media.discordapp.net/attachments/1044273174235320331/1062045186399682601/image.png)
 
 == UPDATE 1.1.5 ==
 * Bug fixes
