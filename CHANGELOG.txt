@@ -17,6 +17,7 @@
 - [New splash screen](https://media.discordapp.net/attachments/755053641215377410/1062048014593699900/vlcframeextract.png?width=1609&height=905) (it's also animated)
 - Added clear cache button in settings
 * Bug fixes
+- Auto-updater now has a 5 second timeout, so if you can't access github your client will still launch
 - Added support for scroll wheel in keystrokes addon
 - Game window now saves state (position, size, fullscreen) and restores it on startup
 - When images fail to load they will [now be hidden](https://media.discordapp.net/attachments/1044273174235320331/1062045186399682601/image.png)
