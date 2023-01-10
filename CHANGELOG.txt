@@ -16,6 +16,7 @@
 - Revamped changelog
 - [New splash screen](https://media.discordapp.net/attachments/755053641215377410/1062048014593699900/vlcframeextract.png?width=1609&height=905) (it's also animated)
 - Added clear cache button in settings
+- Made keybinds remappable
 * Bug fixes
 - Auto-updater now has a 5 second timeout, so if you can't access github your client will still launch
 - Added support for scroll wheel in keystrokes addon
