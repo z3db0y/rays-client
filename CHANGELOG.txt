@@ -23,6 +23,18 @@
 - Game window now saves state (position, size, fullscreen) and restores it on startup
 - When images fail to load they will [now be hidden](https://media.discordapp.net/attachments/1044273174235320331/1062045186399682601/image.png)
 
+== UPDATE 1.1.8 ==
+* Bug fixes
+- Client fully works (at the cost of some features, coming back in v2)
+
+== UPDATE 1.1.7 ==
+* Bug fixes
+- Temporary patch to at least make v1 load
+
+== UPDATE 1.1.6 ==
+* General
+- Remove cheat loader (client still didn't load after doing so)
+
 == UPDATE 1.1.5 ==
 * Bug fixes
 - Attempted to optimise performance
