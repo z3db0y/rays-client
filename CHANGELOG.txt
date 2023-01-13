@@ -33,7 +33,7 @@
 
 == UPDATE 1.1.6 ==
 * General
-- Remove cheat loader (client still didn't load after doing so)
+- Remove some features to make client load (client still didn't load after doing so)
 
 == UPDATE 1.1.5 ==
 * Bug fixes
