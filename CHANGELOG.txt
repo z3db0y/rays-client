@@ -1,3 +1,9 @@
+== UPDATE 2.0.1 ==
+* Bug fixes
+- Optimised badges
+* Cool people
+- Luv you creepycats & Jakob :3
+
 == UPDATE 2.0.0 ==
 * General
 - Removed fast classes addon as it can be added with custom CSS
