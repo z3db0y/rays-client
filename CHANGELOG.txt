@@ -1,3 +1,9 @@
+== UPDATE 2.0.2 ==
+* Bug fixes
+- Optimised chat categorizer
+- Fixed client stuck on Initializing
+- Fixed twitch chat
+
 == UPDATE 2.0.1 ==
 * Bug fixes
 - Optimised badges
