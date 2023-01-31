@@ -1,3 +1,7 @@
+== UPDATE 2.0.4-patch.1 ==
+* Bug fixes
+- Error popup keeps appearing
+
 == UPDATE 2.0.4 ==
 * General
 - Added bug reporting
