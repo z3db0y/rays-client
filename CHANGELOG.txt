@@ -1,3 +1,10 @@
+== UPDATE 2.0.4 ==
+* General
+- Added bug reporting
+* Bug fixes
+- Fixed small chat categorizer bug
+- Fixed "undefined is not a function" (hopefully)
+
 == UPDATE 2.0.3 ==
 * General
 - Added [switch css](https://media.discordapp.net/attachments/1068642382507147394/1068642809835425802/image.png?width=1609&height=905)
