@@ -1,6 +1,6 @@
 == UPDATE 2.0.4-patch.1 ==
 * Bug fixes
-- Error popup keeps appearing
+- Error popup kept appearing
 
 == UPDATE 2.0.4 ==
 * General
