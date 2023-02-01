@@ -1,7 +1,7 @@
 == UPDATE 2.0.4-patch.2 ==
 
 * Bug fixes
-- Fixed anither bug
+- Fixed another bug
 
 == UPDATE 2.0.4-patch.2 ==
 * Bug fixes
