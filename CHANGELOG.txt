@@ -1,3 +1,7 @@
+== UPDATE 2.0.4-patch.2 ==
+* Bug fixes
+- Fixed "TypeError: undefined is not a function"
+
 == UPDATE 2.0.4-patch.1 ==
 * Bug fixes
 - Error popup kept appearing
@@ -7,7 +11,6 @@
 - Added bug reporting
 * Bug fixes
 - Fixed small chat categorizer bug
-- Fixed "undefined is not a function" (hopefully)
 
 == UPDATE 2.0.3 ==
 * General
