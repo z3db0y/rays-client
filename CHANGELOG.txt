@@ -1,4 +1,9 @@
 == UPDATE 2.0.4-patch.2 ==
+
+* Bug fixes
+- Fixed anither bug
+
+== UPDATE 2.0.4-patch.2 ==
 * Bug fixes
 - Fixed "TypeError: undefined is not a function"
 
