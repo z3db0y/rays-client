@@ -1,5 +1,8 @@
-== UPDATE 2.0.4-patch.2 ==
+== UPDATE 2.0.4-patch.4 ==
+* Bug fixes
+- Removed error reporting, too many random errors
 
+== UPDATE 2.0.4-patch.3 ==
 * Bug fixes
 - Fixed another bug
 
