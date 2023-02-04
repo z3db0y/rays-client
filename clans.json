@@ -70,7 +70,7 @@
     },
     "24/7": {
         "style": {
-            "background": "-webkit-linear-gradient(#34aed8, #4607FF)",
+            "background": "-webkit-linear-gradient(#34aed8, #8000FF)",
             "-webkit-background-clip": "text",
             "-webkit-text-fill-color": "transparent"
         }
