@@ -3,6 +3,8 @@
 - Revamped badges/clan tags
 - Added TradeAssistant [beta]
 - Added spotify integration [beta]
+* Bug fixes
+- Removed env mods (due to map integrity checks)
 
 == UPDATE 2.0.4-patch.4 ==
 * Bug fixes
