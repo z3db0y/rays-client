@@ -1,5 +1,9 @@
 == UPDATE 2.0.5-patch.1 ==
 * Bug fixes
+- Fixed id undefined
+
+== UPDATE 2.0.5-patch.1 ==
+* Bug fixes
 - Enabled TradeAssistant setting
 - Sorted badges + synced with hub
 
