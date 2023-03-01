@@ -1,3 +1,11 @@
+== UPDATE 2.0.6 ==
+* General
+- Added "Copy Link" button to server browser
+* Bug fixes
+- Attempted to fix Spotify Integration (don't know how well that turned out, styles are still fucked)
+- Limited TradeAssistant cache to 30 items (to try solve white screen issue)
+- Attempted fix for "Cannot read property '2' of undefined"
+
 == UPDATE 2.0.5-patch.1 ==
 * Bug fixes
 - Fixed id undefined
