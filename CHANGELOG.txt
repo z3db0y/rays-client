@@ -1,3 +1,10 @@
+== UPDATE 2.0.7 ==
+* General
+- Easy CSS now gets public CSS list [online](https://api.z3db0y.com/rays/css)
+- BetterMatchmaker supports multiple maps/modes/regions now
+* Bug fixes
+- Memory leaks with websockets
+
 == UPDATE 2.0.6 ==
 * General
 - Added "Copy Link" button to server browser
