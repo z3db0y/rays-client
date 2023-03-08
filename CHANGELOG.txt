@@ -1,5 +1,9 @@
 == UPDATE 2.0.7-patch.2 ==
 * Bug fixes
+- Fixed client white screens
+
+== UPDATE 2.0.7-patch.2 ==
+* Bug fixes
 - Fixed annoying WebSocket errors
 
 == UPDATE 2.0.7-patch.1 ==
