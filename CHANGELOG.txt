@@ -1,6 +1,7 @@
-== UPDATE 2.0.7-patch.4 ==
+== UPDATE 2.0.8 ==
 * Bug fixes
-- Fixed `The "key" argument must be of type string or an instance of Buffer, TypedArray, DataView, or KeyObject. Received undefined`
+- Attempted to fix mouse stutter/flicks
+- Removed some useless chromium switches
 
 == UPDATE 2.0.7-patch.3 ==
 * Bug fixes
