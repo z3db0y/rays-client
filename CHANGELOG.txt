@@ -1,3 +1,8 @@
+== UPDATE 2.0.9 ==
+* Bug fixes
+- Update client toggle wasn't there (although implemented) 💀
+- Optimise badge main <-> renderer sync
+
 == UPDATE 2.0.8 ==
 * Bug fixes
 - Attempted to fix mouse stutter/flicks
