@@ -1,3 +1,10 @@
+== UPDATE 2.1.0 ==
+* Improvements
+- Changed the way alts are stored for better security
+- Allowed modification of the Esports button
+* Bug fixes
+- Fixed stuttering issue during gameplay
+
 == UPDATE 2.0.9 ==
 * Bug fixes
 - Update client toggle wasn't there (although implemented) 💀
