@@ -1,3 +1,13 @@
+== UPDATE 2.1.1 ==
+* General
+- Added actions for message deletion and chat clear (twitch)
+- Added custom player death cards (Patrons can add their own)
+- Krunker hub badges/clans temporarily disabled in places to speed up hub
+* Bug fixes
+- Removed Spotify + TradeAssistant as both features were buggy/broken
+- Fixed 2FA popup not closing
+- Fixed badges sometimes not showing
+
 == UPDATE 2.1.0 ==
 * Improvements
 - Changed the way alts are stored for better security
