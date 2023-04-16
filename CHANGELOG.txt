@@ -1,3 +1,7 @@
+== UPDATE 2.1.2 ==
+* Bug fixes
+- Fixed clan tags not working for players without badges
+
 == UPDATE 2.1.1 ==
 * General
 - Added actions for message deletion and chat clear (twitch)
