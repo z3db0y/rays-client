@@ -1,3 +1,10 @@
+== UPDATE 2.1.3 ==
+* General
+- Added custom featured streamers
+- Added "hide popups" option
+* Bug fixes
+- Players without badges can now properly use custom death cards
+
 == UPDATE 2.1.2 ==
 * Bug fixes
 - Fixed clan tags not working for players without badges
