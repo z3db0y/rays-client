@@ -1,3 +1,7 @@
+== UPDATE 2.1.6 ==
+* Bug Fixes
+- Fuck the krunker devs (yes i mean you tehchy)
+
 == UPDATE 2.1.5 ==
 * General
 - Add StatTrack
